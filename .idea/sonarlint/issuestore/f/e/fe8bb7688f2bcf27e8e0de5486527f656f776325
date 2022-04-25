@@ -1,0 +1,16 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Éà‚ûÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÈŞÀûÿÿÿÿ
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Í€÷&
+e	java:S114"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¹º”M
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¡Îÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(åÀ¼¶şÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µŞ®üÿÿÿÿ
+O
+java:S3400	"9Remove this method and declare a constant for this value.(¼®Ç©
+J
+java:S1611"/Remove the parentheses around the "S" parameter(¨Éà‚ûÿÿÿÿ
+W
+java:S1612"<Replace this lambda with method reference 'hello::Sayhello'.(¨Éà‚ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(êÏöøøÿÿÿÿ8şü­„0
